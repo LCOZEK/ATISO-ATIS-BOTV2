@@ -243,4 +243,4 @@ async def metar(ctx, icao: str, *, opis: str = None):
 
     await ctx.send(embed=embed)
 
-bot.run("MTM1MTU5NDU4MDUyNDUzMTc4Mg.GOjcS5.w0EDhN6LrkApgUAmmPBm3Uup3fL_cujLLQKNQc")
+bot.run("")
